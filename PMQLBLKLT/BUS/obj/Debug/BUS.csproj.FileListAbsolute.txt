@@ -1,0 +1,144 @@
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\bin\Debug\BUS.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\bin\Debug\BUS.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\bin\Debug\DAL.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\bin\Debug\DTO.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\bin\Debug\DAL.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\bin\Debug\DTO.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\obj\Debug\BUS.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\BUS\obj\Debug\BUS.pdb
+=======
+C:\Users\PHI\Documents\GitHub\DATN\BUS\bin\Debug\BUS.dll
+C:\Users\PHI\Documents\GitHub\DATN\BUS\bin\Debug\BUS.pdb
+C:\Users\PHI\Documents\GitHub\DATN\BUS\bin\Debug\DAL.dll
+C:\Users\PHI\Documents\GitHub\DATN\BUS\bin\Debug\DTO.dll
+C:\Users\PHI\Documents\GitHub\DATN\BUS\bin\Debug\DAL.pdb
+C:\Users\PHI\Documents\GitHub\DATN\BUS\bin\Debug\DTO.pdb
+C:\Users\PHI\Documents\GitHub\DATN\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\PHI\Documents\GitHub\DATN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Documents\GitHub\DATN\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PHI\Documents\GitHub\DATN\BUS\obj\Debug\BUS.dll
+C:\Users\PHI\Documents\GitHub\DATN\BUS\obj\Debug\BUS.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\bin\Debug\BUS.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\bin\Debug\BUS.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\bin\Debug\DAL.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\bin\Debug\DTO.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\bin\Debug\DAL.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\bin\Debug\DTO.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\obj\Debug\BUS.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\BUS\obj\Debug\BUS.pdb
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\bin\Debug\BUS.dll
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\bin\Debug\BUS.pdb
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\bin\Debug\DAL.dll
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\bin\Debug\DTO.dll
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\bin\Debug\DAL.pdb
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\bin\Debug\DTO.pdb
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\obj\Debug\BUS.dll
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\BUS\obj\Debug\BUS.pdb
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\bin\Debug\BUS.dll
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\bin\Debug\BUS.pdb
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\bin\Debug\DAL.dll
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\bin\Debug\DTO.dll
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\bin\Debug\DAL.pdb
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\bin\Debug\DTO.pdb
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\obj\Debug\BUS.dll
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\BUS\obj\Debug\BUS.pdb
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\bin\Debug\BUS.dll
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\bin\Debug\BUS.pdb
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\bin\Debug\DAL.dll
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\bin\Debug\DTO.dll
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\bin\Debug\DAL.pdb
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\bin\Debug\DTO.pdb
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\obj\Debug\BUS.dll
+E:\Lập Trình Csharp\QLCHBLKMT\BUS\obj\Debug\BUS.pdb
+D:\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\BUS.dll
+D:\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\BUS.pdb
+D:\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\DAL.dll
+D:\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\DTO.dll
+D:\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\DAL.pdb
+D:\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\DTO.pdb
+D:\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.dll
+D:\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\BUS\obj\Debug\BUS.pdb
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.dll
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.pdb
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.dll
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.dll
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.pdb
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.pdb
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.dll
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.pdb
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.dll
+C:\Users\admin\Downloads\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.pdb
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.dll
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.pdb
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.dll
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.dll
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.pdb
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.pdb
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.dll
+D:\source\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.pdb
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.dll
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\BUS.pdb
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.dll
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.dll
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DAL.pdb
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\bin\Debug\DTO.pdb
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.dll
+D:\QLBH\Wf_HoangAnh\PMQLBLK\PMQLBLK\PMQLBLKLT\BUS\obj\Debug\BUS.pdb

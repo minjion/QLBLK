@@ -1,0 +1,53 @@
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\bin\Debug\DTO.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\bin\Debug\DTO.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\obj\Debug\DTO.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\obj\Debug\DTO.pdb
+=======
+C:\Users\PHI\Documents\GitHub\DATN\DTO\bin\Debug\DTO.dll
+C:\Users\PHI\Documents\GitHub\DATN\DTO\bin\Debug\DTO.pdb
+C:\Users\PHI\Documents\GitHub\DATN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Documents\GitHub\DATN\DTO\obj\Debug\DTO.dll
+C:\Users\PHI\Documents\GitHub\DATN\DTO\obj\Debug\DTO.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\bin\Debug\DTO.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\bin\Debug\DTO.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\obj\Debug\DTO.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\obj\Debug\DTO.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\bin\Debug\DTO.dll
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\bin\Debug\DTO.pdb
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\obj\Debug\DTO.dll
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\obj\Debug\DTO.pdb
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\DTO\bin\Debug\DTO.dll
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\DTO\bin\Debug\DTO.pdb
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\DTO\obj\Debug\DTO.dll
+C:\Users\Nguyen Khanh TV\source\repos\QLCHBLKMT\DTO\obj\Debug\DTO.pdb
+E:\Lập Trình Csharp\QLCHBLKMT\DTO\bin\Debug\DTO.dll
+E:\Lập Trình Csharp\QLCHBLKMT\DTO\bin\Debug\DTO.pdb
+E:\Lập Trình Csharp\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Lập Trình Csharp\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Lập Trình Csharp\QLCHBLKMT\DTO\obj\Debug\DTO.dll
+E:\Lập Trình Csharp\QLCHBLKMT\DTO\obj\Debug\DTO.pdb
+D:\QLCHBLKMT\QLCHBLKMT\DTO\bin\Debug\DTO.dll
+D:\QLCHBLKMT\QLCHBLKMT\DTO\bin\Debug\DTO.pdb
+D:\QLCHBLKMT\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QLCHBLKMT\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLCHBLKMT\QLCHBLKMT\DTO\obj\Debug\DTO.dll
+D:\QLCHBLKMT\QLCHBLKMT\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\OneDrive\Máy tính\QLCHBLKMT\QLCHBLKMT\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Downloads\PMQLBLK\PMQLBLK\PMQLBLKLT\DTO\obj\Debug\DTO.pdb
